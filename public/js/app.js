@@ -185,7 +185,7 @@ function getMensajes(){
 
 getMensajes();
 
-function isOnline(){
+function isOnline(){//comentario
     if(navigator.onLine){
         //Tenemos conexion a internet.
         //console.log('Online');

@@ -41,13 +41,13 @@ var txtMensaje  = $('#txtMensaje');
 var btnActivadas = $(".btn-noti-activadas");
 var btnDesactivadas = $(".btn-noti-desactivadas");
 
-// El usuario, contiene el ID del hÃ©roe seleccionado
+// El usuario, contiene el ID del heroe seleccionado
 var usuario;
 
 
 
 
-// ===== Codigo de la aplicaciÃ³n
+// ===== Codigo de la aplicacion
 
 function crearMensajeHTML(mensaje, personaje) {
 

@@ -6,19 +6,9 @@ const push = require('./push');
 const mensajes=[
 {
   _id: 'xxxx',
-  user:'Diana',
+  user:'spiderman',
   mensaje:'Hola a todos'
 },
-{
-  _id: 'xxxx',
-  user:'Merlin',
-  mensaje:'La magia es grandiosa'
-},
-{
-  _id: 'xxxx',
-  user:'Ban',
-  mensaje:'Que pereza hacer cualquier cosa'
-}
 
 ];
 

@@ -6,7 +6,7 @@ const vapid = require('./vapid.json');
 const webpush = require('web-push');
 
 webpush.setVapidDetails(
-    'mailto: ca391428@uaeh.edu.mx',
+    'mailto: or348174@uaeh.edu.mx',
     vapid.publicKey,
     vapid.privateKey
 );
